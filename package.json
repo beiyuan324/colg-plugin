@@ -1,0 +1,5 @@
+{
+  "name": "colg-plugin",
+  "description": "COLG解析插件",
+  "type": "module"
+}
